@@ -6,7 +6,7 @@ This example shows how to do E2E testing with Resend, [Next.js](https://nextjs.o
 
 Deploy the example using [Vercel](https://vercel.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/resend/resend-nextjs-app-router-example&project-name=resend-nextjs-app-router-example&repository-name=resend-nextjs-app-router-example&env=RESEND_API_KEY)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/resend/resend-nextjs-playwright-example&project-name=resend-nextjs-playwright-example&repository-name=resend-nextjs-playwright-example&env=RESEND_API_KEY)
 
 ## Instructions
 
