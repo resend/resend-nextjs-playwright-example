@@ -19,13 +19,13 @@ cp .env.example .env
 2. Install dependencies:
 
 ```sh
-npm install
+pnpm install
 ```
 
 3. Run Next.js locally:
 
 ```sh
-npm run dev
+pnpm dev
 ```
 
 4. Make a curl request
